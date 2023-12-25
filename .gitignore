@@ -1,0 +1,18 @@
+*.pyc
+*~
+/.vscode
+__pycache__
+# myvenv
+db.sqlite3
+/static
+.DS_Store
+
+###以下myvenvを変更
+# Poetry
+.poetry/
+poetry.lock
+pyproject.toml
+
+# Virtualenv
+venv/
+
